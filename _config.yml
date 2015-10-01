@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: "cyanoScope: Citizen Science, Microscopy, and Cyanobacteria"
+title: "cyanoScope"
 description: "This is the project page for the cyanoScope project.  We are developing tools and protocols to gain an understanding of where different cyanobacteria taxa are known to occur."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
