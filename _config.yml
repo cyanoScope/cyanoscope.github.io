@@ -48,51 +48,51 @@ colors:  #in hex code if not noted else
 
 # Members information. Shown on About page.
 #members:
-#  - name: Bryan Milstead
-#    position: Research Ecologist, Atlantic Ecology Division
-#    text:
-#    img:
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:milstead.bryan@epa.gov
-#      - title:
-#        url:
-#  - name: Jeffrey Hollister
-#    position: Research Ecologist, Atlantic Ecology Division
-#    text:
-#    img:
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:hollister.jeff@epa.gov
-#      - title: twitter
-#        url: http://twitter.com/jhollist
-#  - name: Betty Kreakie
-#    position: Research Ecologist, Atlantic Ecology Division
-#    text:
-#    img:
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:kreakie.betty@epa.gov
-#      - title:
-#        url:
-#  - name: Hilary Snook
-#    position: Senior Environmental Scientist
-#    text:
-#    img:
-#    social:
-#     - title: envelope #use for email address
-#        url: mailto:snook.hilary@epa.gov
-#      - title:
-#        url:
-#  - name: Tom Hollenhorst
-#    position: Ecologist
-#    text:
-#    img:
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:hollenhorst.tom@epa.gov
-#      - title:
-#        url:
+  - name: Bryan Milstead
+    position: Research Ecologist, Atlantic Ecology Division
+    text:
+    img:
+    social:
+      - title: envelope #use for email address
+        url: mailto:milstead.bryan@epa.gov
+      - title:
+        url:
+  - name: Jeffrey Hollister
+    position: Research Ecologist, Atlantic Ecology Division
+    text:
+    img:
+    social:
+      - title: envelope #use for email address
+        url: mailto:hollister.jeff@epa.gov
+      - title: twitter
+        url: http://twitter.com/jhollist
+  - name: Betty Kreakie
+    position: Research Ecologist, Atlantic Ecology Division
+    text:
+    img:
+    social:
+      - title: envelope #use for email address
+        url: mailto:kreakie.betty@epa.gov
+      - title:
+        url:
+  - name: Hilary Snook
+    position: Senior Environmental Scientist
+    text:
+    img:
+    social:
+     - title: envelope #use for email address
+        url: mailto:snook.hilary@epa.gov
+      - title:
+        url:
+  - name: Tom Hollenhorst
+    position: Ecologist
+    text:
+    img:
+    social:
+      - title: envelope #use for email address
+        url: mailto:hollenhorst.tom@epa.gov
+      - title:
+        url:
 
 # Clients information. Shown on Home and About pages.
 #clients:
