@@ -49,7 +49,7 @@ colors:  #in hex code if not noted else
 # Members information. Shown on About page.
 members:
   - name: Bryan Milstead
-    position: Research Ecologist, Atlantic Ecology Division
+    position: "Research Ecologist, Atlantic Ecology Division"
     text:
     img:
     social:
@@ -58,7 +58,7 @@ members:
       - title:
         url:
   - name: Jeffrey Hollister
-    position: Research Ecologist, Atlantic Ecology Division
+    position: "Research Ecologist, Atlantic Ecology Division"
     text:
     img:
     social:
@@ -67,7 +67,7 @@ members:
       - title: twitter
         url: http://twitter.com/jhollist
   - name: Betty Kreakie
-    position: Research Ecologist, Atlantic Ecology Division
+    position: "Research Ecologist, Atlantic Ecology Division"
     text:
     img:
     social:
@@ -76,7 +76,7 @@ members:
       - title:
         url:
   - name: Hilary Snook
-    position: Senior Environmental Scientist
+    position: "Senior Environmental Scientist, EPA Region 1 Lab"
     text:
     img:
     social:
@@ -85,7 +85,7 @@ members:
       - title:
         url:
   - name: Tom Hollenhorst
-    position: Ecologist
+    position: "Research Ecologist, Mid-continent Ecology Division"
     text:
     img:
     social:
