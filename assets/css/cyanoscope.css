@@ -1,7 +1,7 @@
-.section.hero.override {
+.override {
   background-color: #429649;
 }
 
-h1 {
+.override h1 {
   color: #29418C;
 }
