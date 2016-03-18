@@ -365,11 +365,6 @@ p {
   }
 }
 
-
-div.section:nth-child(2) {
-  background-color: #429649;
-}
-
-.override h1 {
+h2 {
   color: #29418C;
 }
